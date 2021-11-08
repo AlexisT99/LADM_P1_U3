@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="none">
+        <item android:title="Conductores">
+            <menu>
+                <item android:id="@+id/nav_item_AgregarConductor"
+                    android:title="Agregar conductor"
+                    android:icon="@drawable/camionero"
+                    />
+                <item android:id="@+id/nav_item_VerConductores"
+                    android:title="Ver conductores"
+                    android:icon="@drawable/nota"
+                    />
+                <item android:id="@+id/nav_item_Vencidas"
+                    android:title="Licencias vencidas"
+                    android:icon="@drawable/licencia"
+                    />
+                <item android:id="@+id/nav_item_ConductoresSincamion"
+                    android:title="Conductores sin camión"
+                    android:icon="@drawable/sincamion"
+                    />
+            </menu>
+        </item>
+
+    <item android:title="Camiones">
+        <menu>
+            <item android:id="@+id/nav_item_AgregarCamion"
+                android:title="Agregar camión"
+                android:icon="@drawable/camion"
+                />
+            <item android:id="@+id/nav_item_ListaCamiones"
+                android:title="Lista Camiones"
+                android:icon="@drawable/nota"
+                />
+            <item android:id="@+id/nav_item_ListaCamionesSinConductor"
+                android:title="Camiones sin conductor"
+                android:icon="@drawable/pregunta"
+                />
+        </menu>
+    </item>
+        <item android:id="@+id/nav_item_Asignacion"
+            android:title="Asignación"
+            android:icon="@drawable/asignacion"
+            />
+        <item android:id="@+id/nav_item_LogOut"
+            android:title="LogOut"
+            android:icon="@drawable/logout"
+            />
+
+    </group>
+</menu>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/drawable/bordes_redondos.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/drawable/bordes_redondos2.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/drawable/buttonrounded.xml" value="0.15185185185185185" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/drawable/buttonrounded2.xml" value="0.15185185185185185" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/layout/activity_mostrar_conductores.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/layout/activity_register.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/layout/app_bar_main.xml" value="0.2" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/layout/asignacion_row.xml" value="0.2346014492753623" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/layout/camiones_row.xml" value="0.25" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/layout/conductores_row.xml" value="0.264" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/layout/content_login.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/layout/fragment_agregar_camion.xml" value="0.4" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/layout/fragment_blank.xml" value="0.25" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/layout/fragment_camiones_sin_conductor.xml" value="0.2346014492753623" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/layout/fragment_conductores_sin_camion.xml" value="0.25" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/layout/fragment_editar_camion.xml" value="0.25" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/layout/fragment_editar_conductor.xml" value="0.1" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/layout/fragment_first.xml" value="0.264" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/layout/fragment_first2.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/layout/fragment_linkear_camiones.xml" value="0.14947916666666666" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/layout/fragment_linkear_conductor.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/layout/fragment_lista_asignacion.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/layout/fragment_lista_camiones.xml" value="0.25" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/layout/fragment_lista_conductores.xml" value="0.264" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/layout/fragment_lista_conductores_vencidas.xml" value="0.25" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/layout/nav_header_main.xml" value="0.264" />
+        <entry key="..\:/Users/torre/OneDrive/Documentos/moviles/U3/LADM_P1_U3/app/src/main/res/menu/activity_main_drawer.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
